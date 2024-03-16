@@ -1,0 +1,3 @@
+Date,Time,Sender Email,Receiver Email,Subject,File Encr Key,Text Encr Key,AdvEncr Key1,AdvEncr Key2
+2022-01-12,12:14:39,kumarpython2021@gmail.com,kumaravendhan.r@gmail.com,This is a trial Email,,,,
+2022-01-12,12:27:26,kumarpython2021@gmail.com,kumaravendhan.r@gmail.com,Trial Email with Encrypted file and text,45,1239,,
